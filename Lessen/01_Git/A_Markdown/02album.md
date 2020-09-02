@@ -19,5 +19,5 @@ images:
 ---
 
 # Album Images
-
+![foto Dirk]({{site.baseurl}}/assets/Dirkdm.png)
 {% include album.liquid data=page.images %}

@@ -2,6 +2,8 @@
 sort: 1
 ---
 
+Ik doe een test in het **_vet_** en _schuin_
+
 # Markdown Elements
 
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines.
